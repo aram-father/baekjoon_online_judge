@@ -1,7 +1,9 @@
-Problme No: 11408
-Problem Id: 열혈강호 5
+**Problme No:** 11409
+**Problem Id:** 열혈강호 6
 
 전형적인 min-cost-max-flow 문제이다.
+
+
 단, 최대 비용을 구해야하므로, 비용만 음수로 처리한 후 출력시 절댓값으로 출력했다.
 
 
